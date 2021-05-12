@@ -1,8 +1,7 @@
 ## Geo Search
-<p>Geo-Search is a web application that allow users to search for places and extract information such as timezone, map and local weather conditions like temperature, wind speed, humidity, and precipitation<p>
+<p>Live Weather is a web application that allow users to search for places and extract information such as timezone, map and local weather conditions like temperature, wind speed, humidity, and precipitation<p>
   
 ## Dependencies
-develop
 * Package Manager - [npm](https://npmjs.com/ "")
 * Icons - [Iconify](https://code.iconify.design/1/1.0.7/iconify.min.js/ "")
 * API - [OpenWeather](https://openweathermap.org/api/ "")
