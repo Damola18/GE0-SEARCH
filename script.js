@@ -59,10 +59,5 @@ searchBox.addEventListener('submit', e => {
         .then((data) =>{
             updateWeatherSearch(data)
         })
-        .catch(error => {
-            if(error !== 'OK'){
-                alert('You have entered an incorrect location or you searched an empty field');
-            }
-        })
 });
 
